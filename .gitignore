@@ -1,0 +1,10 @@
+# Ignore environment files
+Backend/AI_Blog_App/.env
+
+# Ignore Python cache directories
+Backend/AI_Blog_App/Blog_Generator/__pycache__/
+Backend/AI_Blog_App/AI_Blog_App/__pycache__/
+
+# Ignore migrations directory
+Backend/AI_Blog_App/Blog_Generator/migrations/
+

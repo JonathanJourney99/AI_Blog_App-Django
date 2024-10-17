@@ -1,0 +1,4 @@
+.env
+db.sqlite3
+__pycache__/
+Backend/AI_Blog_App/media/*
